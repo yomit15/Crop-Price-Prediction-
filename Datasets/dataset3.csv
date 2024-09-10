@@ -1,0 +1,664 @@
+Market,Arrivals,Unit of Arrivals,Variety,Minimum Prices,Maximum Prices,Modal Prices,Unit of Price,Variety
+,,,,,,,,
+Group:Cereals,,,,,,,,
+,,,,,,,,
+Hissar,5.3,Tonnes,Other,2350,2350,2350,Rs/Quintal,Bajra
+Khanina,2,Tonnes,Other,2400,2400,2400,Rs/Quintal,Bajra
+Maize,,,,,,,,
+Shahzadpur,9.5,Tonnes,Other,2350,2350,2350,Rs/Quintal,Maize
+,,,,,,,,
+Jundla,9.5,Tonnes,Basmati 1509,2500,2521,2521,Rs/Quintal,Paddy
+Kunjpura,62.8,Tonnes,Basmati 1509,2350,2590,2470,Rs/Quintal,Paddy
+"New Grain Market , Sonipat",10.5,Tonnes,Basmati 1509,2461,2601,2601,Rs/Quintal,Paddy
+Nilokheri,50,Tonnes,Basmati 1509,1861,2585,1880,Rs/Quintal,Paddy
+Pipli,31,Tonnes,Basmati 1509,1800,2531,1901,Rs/Quintal,Paddy
+Tohana,15.5,Tonnes,1121,2250,2450,2450,Rs/Quintal,Paddy
+Wheat,,,,,,,,
+Khanina,0.8,Tonnes,Other,2620,2620,2620,Rs/Quintal,Wheat
+,,,,,,,,
+Group:Fibre Crops,,,,,,,,
+,,,,,,,,
+Adampur,23.4,Tonnes,Other,6700,7000,6850,Rs/Quintal,Cotton
+,,,,,,,,
+Group:Fruits,,,,,,,,
+,,,,,,,,
+Ambala Cantt.,6.5,Tonnes,Apple,3500,8000,6500,Rs/Quintal,Apple
+Barwala(Hisar),0.5,Tonnes,Other,6000,7000,6500,Rs/Quintal,Apple
+Bhiwani,1.25,Tonnes,Apple,7540,11000,9504,Rs/Quintal,Apple
+Dhand,0.2,Tonnes,Other,6000,6500,6400,Rs/Quintal,Apple
+Faridabad,3.9,Tonnes,Apple,4000,12000,8000,Rs/Quintal,Apple
+Ganaur,0.1,Tonnes,Other,12000,14000,12000,Rs/Quintal,Apple
+Gharaunda,0.5,Tonnes,Other,8000,8000,8000,Rs/Quintal,Apple
+Gohana,1.7,Tonnes,Apple,6000,8000,7000,Rs/Quintal,Apple
+Gurgaon,10.8,Tonnes,Other,8000,10000,9000,Rs/Quintal,Apple
+Hansi,3.5,Tonnes,Other,5000,9000,7000,Rs/Quintal,Apple
+Hissar,3.4,Tonnes,Other,4000,10000,8000,Rs/Quintal,Apple
+,,Tonnes,,11000,14000,12500,Rs/Quintal,Apple
+Indri,0.22,Tonnes,Other,6000,10000,8000,Rs/Quintal,Apple
+Jagadhri,2,Tonnes,Other,3500,7000,5500,Rs/Quintal,Apple
+Ladwa,0.6,Tonnes,Apple,4500,7500,6000,Rs/Quintal,Apple
+Meham,0.4,Tonnes,Apple,5000,10000,8000,Rs/Quintal,Apple
+Naraingarh,1.7,Tonnes,Other,2000,6000,4500,Rs/Quintal,Apple
+Narnaul,1.1,Tonnes,Apple,4000,8000,7000,Rs/Quintal,Apple
+Narwana,2.6,Tonnes,Other,8000,12000,10000,Rs/Quintal,Apple
+"New Grain Market , Panchkula",1,Tonnes,Apple,8500,9500,9000,Rs/Quintal,Apple
+"New Grain Market(main), Karnal",24.3,Tonnes,Other,2000,10000,6000,Rs/Quintal,Apple
+Palwal,2,Tonnes,Apple,4000,5000,4500,Rs/Quintal,Apple
+Pataudi,0.3,Tonnes,Other,9500,10000,9800,Rs/Quintal,Apple
+Radaur,5,Tonnes,Other,4000,5000,4500,Rs/Quintal,Apple
+Rewari,2.5,Tonnes,Apple,5000,15000,10000,Rs/Quintal,Apple
+Sadhaura,0.5,Tonnes,Other,2200,2400,2300,Rs/Quintal,Apple
+Safidon,1,Tonnes,Other,3000,6000,5000,Rs/Quintal,Apple
+Shahabad,1.85,Tonnes,Apple,5000,10000,7000,Rs/Quintal,Apple
+Sonepat,11.1,Tonnes,Other,11000,12100,12100,Rs/Quintal,Apple
+Tauru,0.6,Tonnes,Other,3000,6000,5000,Rs/Quintal,Apple
+Thanesar,13.8,Tonnes,Apple,4000,12000,8000,Rs/Quintal,Apple
+Uklana,0.1,Tonnes,Apple,6000,6000,6000,Rs/Quintal,Apple
+,,,,,,,,
+Ambala Cantt.,2,Tonnes,Other,1800,2500,2200,Rs/Quintal,Banana
+Dhand,0.6,Tonnes,Other,3000,4000,3800,Rs/Quintal,Banana
+Ganaur,0.4,Tonnes,Banana - Ripe,4000,4500,4200,Rs/Quintal,Banana
+Gurgaon,15.6,Tonnes,Other,2000,3000,2500,Rs/Quintal,Banana
+Indri,0.7,Tonnes,Other,2500,4000,3500,Rs/Quintal,Banana
+Jagadhri,2.7,Tonnes,Other,2050,2300,2150,Rs/Quintal,Banana
+kalanwali,0.2,Tonnes,Other,1800,2200,2000,Rs/Quintal,Banana
+Kosli,0.1,Tonnes,Other,2000,2000,2000,Rs/Quintal,Banana
+Ladwa,0.9,Tonnes,Other,2000,3000,2500,Rs/Quintal,Banana
+Meham,1.5,Tonnes,Other,1600,1600,1600,Rs/Quintal,Banana
+Narwana,10,Tonnes,Other,1600,1600,1600,Rs/Quintal,Banana
+"New Grain Market(main), Karnal",15.8,Tonnes,Other,1500,3000,2250,Rs/Quintal,Banana
+Pataudi,11.6,Tonnes,Other,1600,1800,1700,Rs/Quintal,Banana
+Radaur,14,Tonnes,Other,3200,3500,3300,Rs/Quintal,Banana
+Rania,2,Tonnes,Amruthapani,1700,1900,1800,Rs/Quintal,Banana
+Rewari,1,Tonnes,Other,1500,2500,2000,Rs/Quintal,Banana
+Rohtak,19,Tonnes,Other,1800,2000,2000,Rs/Quintal,Banana
+Safidon,1.7,Tonnes,Other,3000,3000,3000,Rs/Quintal,Banana
+Shahabad,4.4,Tonnes,Banana - Ripe,2480,2700,2500,Rs/Quintal,Banana
+Sonepat,6.2,Tonnes,Other,2850,3050,3050,Rs/Quintal,Banana
+Thanesar,2.8,Tonnes,Other,3000,4000,3500,Rs/Quintal,Banana
+,,,,,,,,
+Faridabad,0.01,Tonnes,Other,2500,3000,2750,Rs/Quintal,Chikoos
+Hansi,0.7,Tonnes,Other,2500,3000,2800,Rs/Quintal,Chikoos
+Narnaul,0.1,Tonnes,Other,3500,3500,3500,Rs/Quintal,Chikoos
+Pataudi,0.1,Tonnes,Other,3500,4000,3800,Rs/Quintal,Chikoos
+,,,,,,,,
+"New Grain Market(main), Karnal",0.25,Tonnes,Annabesahai,10000,20000,15000,Rs/Quintal,Grapes
+,,,,,,,,
+Barwala(Hisar),0.2,Tonnes,Other,2500,3000,2800,Rs/Quintal,Guava
+Faridabad,6,Tonnes,Guava Alahabad,2500,3500,3000,Rs/Quintal,Guava
+Gohana,0.4,Tonnes,Other,2000,4000,2000,Rs/Quintal,Guava
+Gurgaon,5.6,Tonnes,Other,2000,4000,3000,Rs/Quintal,Guava
+Hansi,1,Tonnes,Other,2500,3500,3000,Rs/Quintal,Guava
+Narnaul,0.3,Tonnes,Other,2500,2500,2500,Rs/Quintal,Guava
+Pataudi,0.6,Tonnes,Other,2300,2500,2400,Rs/Quintal,Guava
+Rohtak,2.7,Tonnes,Other,1500,3000,2500,Rs/Quintal,Guava
+Shahabad,0.07,Tonnes,Guava,4500,4500,4500,Rs/Quintal,Guava
+Sonepat,0.6,Tonnes,Other,2550,2750,2750,Rs/Quintal,Guava
+Thanesar,1.6,Tonnes,Guava,1500,3000,2200,Rs/Quintal,Guava
+,,,,,,,,
+Hansi,0.1,Tonnes,Other,8000,8000,8000,Rs/Quintal,Mango
+"New Grain Market(main), Karnal",0.3,Tonnes,Other,12000,15000,13500,Rs/Quintal,Mango
+Rohtak,0.6,Tonnes,Other,4000,6000,5000,Rs/Quintal,Mango
+Safidon,0.14,Tonnes,Other,6000,6000,6000,Rs/Quintal,Mango
+Thanesar,0.3,Tonnes,Other,8000,12000,10000,Rs/Quintal,Mango
+,,,,,,,,
+Ambala Cantt.,1.4,Tonnes,Mousambi,2500,3500,3000,Rs/Quintal,Mousambi
+Barwala(Hisar),0.5,Tonnes,Other,3000,4000,3500,Rs/Quintal,Mousambi
+Faridabad,0.27,Tonnes,Other,2500,3500,3000,Rs/Quintal,Mousambi
+Ganaur,0.45,Tonnes,Mousambi,4000,4500,4200,Rs/Quintal,Mousambi
+Gohana,2.8,Tonnes,Other,2500,3000,2800,Rs/Quintal,Mousambi
+Hansi,5.1,Tonnes,Other,2500,3000,2800,Rs/Quintal,Mousambi
+Jagadhri,2.8,Tonnes,Other,2000,3150,2500,Rs/Quintal,Mousambi
+Jakhal,0.1,Tonnes,Other,4000,4000,4000,Rs/Quintal,Mousambi
+Kosli,0.1,Tonnes,Other,3500,3500,3500,Rs/Quintal,Mousambi
+Ladwa,0.2,Tonnes,Mousambi,3000,3500,3300,Rs/Quintal,Mousambi
+Meham,0.5,Tonnes,Mousambi,3000,3000,3000,Rs/Quintal,Mousambi
+Naraingarh,2.28,Tonnes,Mousambi,2500,3800,3000,Rs/Quintal,Mousambi
+Narnaul,1.8,Tonnes,Other,2500,3500,3000,Rs/Quintal,Mousambi
+Narwana,3.2,Tonnes,Other,3000,4000,3500,Rs/Quintal,Mousambi
+Palwal,1,Tonnes,Mousambi,1800,2000,1900,Rs/Quintal,Mousambi
+Pataudi,0.3,Tonnes,Other,2800,3000,2900,Rs/Quintal,Mousambi
+Radaur,6,Tonnes,Other,4000,4500,4200,Rs/Quintal,Mousambi
+Safidon,1.83,Tonnes,Mousambi,2500,2500,2500,Rs/Quintal,Mousambi
+Shahabad,3.25,Tonnes,Mousambi,2500,3395,3000,Rs/Quintal,Mousambi
+Thanesar,5.4,Tonnes,Mousambi,2500,4000,3200,Rs/Quintal,Mousambi
+Uklana,0.2,Tonnes,Mousambi,4000,4000,4000,Rs/Quintal,Mousambi
+,,,,,,,,
+Thanesar,3.8,Tonnes,Papaya,3500,4500,4000,Rs/Quintal,Papaya
+,,,,,,,,
+Faridabad,0.6,Tonnes,Other,3000,4000,3500,Rs/Quintal,Pear
+Meham,0.3,Tonnes,Other,5000,5000,5000,Rs/Quintal,Pear
+Shahabad,0.15,Tonnes,Other,500,500,500,Rs/Quintal,Pear
+,,,,,,,,
+Ladwa,0.2,Tonnes,Pine Apple,2500,3200,2900,Rs/Quintal,Pineapple
+Rohtak,1.3,Tonnes,Other,1500,3000,2000,Rs/Quintal,Pineapple
+Thanesar,0.5,Tonnes,Pine Apple,4000,6000,5000,Rs/Quintal,Pineapple
+,,,,,,,,
+Faridabad,0.37,Tonnes,Other,3500,10000,6750,Rs/Quintal,Pomegranate
+Ganaur,0.05,Tonnes,Pomogranate,10000,12000,10000,Rs/Quintal,Pomegranate
+Gurgaon,7.6,Tonnes,Other,5000,10000,7500,Rs/Quintal,Pomegranate
+Hansi,0.7,Tonnes,Other,7000,10000,8000,Rs/Quintal,Pomegranate
+Indri,0.09,Tonnes,Other,9000,10000,10000,Rs/Quintal,Pomegranate
+Ladwa,0.2,Tonnes,Pomogranate,6500,8000,7300,Rs/Quintal,Pomegranate
+Naraingarh,0.15,Tonnes,Pomogranate,10000,11000,10700,Rs/Quintal,Pomegranate
+Narwana,5,Tonnes,Other,12000,15000,13500,Rs/Quintal,Pomegranate
+Shahabad,0.44,Tonnes,Pomogranate,7000,9000,7955,Rs/Quintal,Pomegranate
+Sonepat,0.5,Tonnes,Other,8500,8800,8800,Rs/Quintal,Pomegranate
+Thanesar,1.5,Tonnes,Pomogranate,10000,20000,15000,Rs/Quintal,Pomegranate
+,,,,,,,,
+Gohana,0.5,Tonnes,Other,1500,2500,2000,Rs/Quintal,Water Melon
+"New Grain Market(main), Karnal",1,Tonnes,Other,2000,2200,2100,Rs/Quintal,Water Melon
+Palwal,0.2,Tonnes,Other,1000,1000,1000,Rs/Quintal,Water Melon
+Thanesar,0.4,Tonnes,Water Melon,2000,3000,2500,Rs/Quintal,Water Melon
+,,,,,,,,
+Group:Oil Seeds,,,,,,,,
+,,,,,,,,
+Bhattu Kalan,0.4,Tonnes,Other,3865,3865,3865,Rs/Quintal,Groundnut
+,,,,,,,,
+Adampur,0.6,Tonnes,Other,5600,5978,5850,Rs/Quintal,Mustard
+,,,,,,,,
+Group:Pulses,,,,,,,,
+,,,,,,,,
+Thanesar,0.2,Tonnes,Other,9000,10000,9500,Rs/Quintal,Peas(Dry)
+,,,,,,,,
+Group:Spices,,,,,,,,
+,,,,,,,,
+Naraingarh,0.04,Tonnes,Garlic,20000,22000,21000,Rs/Quintal,Garlic
+Shahabad,0.2,Tonnes,Garlic,22000,29000,23200,Rs/Quintal,Garlic
+Thanesar,0.1,Tonnes,Average,15000,25000,20000,Rs/Quintal,Garlic
+,,,,,,,,
+Chhachrauli,0.02,Tonnes,Dry,4000,4000,4000,Rs/Quintal,Ginger
+Ladwa,0.5,Tonnes,Other,4000,4500,4300,Rs/Quintal,Ginger
+Naraingarh,0.25,Tonnes,Other,2000,4500,3500,Rs/Quintal,Ginger
+Shahabad,0.36,Tonnes,Vegitable-fresh,4000,4500,4200,Rs/Quintal,Ginger
+,,,,,,,,
+Group:Vegetables,,,,,,,,
+,,,,,,,,
+Jakhal,0.1,Tonnes,Ashgourd,1200,1200,1200,Rs/Quintal,Ashgourd
+,,,,,,,,
+Gohana,2,Tonnes,Other,2000,3000,2200,Rs/Quintal,Banana - Green
+Naraingarh,35.9,Tonnes,Other,2000,3200,2300,Rs/Quintal,Banana - Green
+,,,,,,,,
+Thanesar,0.2,Tonnes,Beetroot,1500,2500,2000,Rs/Quintal,Beetroot
+,,,,,,,,
+Ambala Cantt.,1.7,Tonnes,Bhindi,1000,1200,1100,Rs/Quintal,Bhindi
+Barara,0.24,Tonnes,Other,1500,2000,2000,Rs/Quintal,Bhindi
+Barwala(Hisar),0.6,Tonnes,Other,1500,2000,1800,Rs/Quintal,Bhindi
+Chhachrauli,0.5,Tonnes,Bhindi,1200,1400,1300,Rs/Quintal,Bhindi
+Faridabad,6.4,Tonnes,Other,1000,2400,1700,Rs/Quintal,Bhindi
+Ganaur,0.6,Tonnes,Bhindi,2500,3000,2800,Rs/Quintal,Bhindi
+Gohana,1.4,Tonnes,Other,2000,2500,2200,Rs/Quintal,Bhindi
+Hansi,3.8,Tonnes,Other,1000,1200,1100,Rs/Quintal,Bhindi
+Hissar,2.9,Tonnes,Other,1500,2000,2000,Rs/Quintal,Bhindi
+Jagadhri,0.21,Tonnes,Other,900,1100,1000,Rs/Quintal,Bhindi
+Jakhal,0.1,Tonnes,Other,2300,2300,2300,Rs/Quintal,Bhindi
+Kosli,0.1,Tonnes,Bhindi,1500,1500,1500,Rs/Quintal,Bhindi
+Ladwa,0.1,Tonnes,Bhindi,2200,2200,2200,Rs/Quintal,Bhindi
+Meham,7,Tonnes,Bhindi,2000,3000,2500,Rs/Quintal,Bhindi
+Naraingarh,0.68,Tonnes,Bhindi,800,1500,1000,Rs/Quintal,Bhindi
+Narnaul,0.8,Tonnes,Other,1500,2000,2000,Rs/Quintal,Bhindi
+Palwal,1.2,Tonnes,Bhindi,2000,2500,2250,Rs/Quintal,Bhindi
+Radaur,5,Tonnes,Other,1000,1000,1000,Rs/Quintal,Bhindi
+Raipur Rai,0.12,Tonnes,Other,2000,2500,2000,Rs/Quintal,Bhindi
+Rania,1,Tonnes,Bhindi,1800,2000,1900,Rs/Quintal,Bhindi
+Sadhaura,0.2,Tonnes,Bhindi,1200,1600,1400,Rs/Quintal,Bhindi
+Safidon,0.34,Tonnes,Bhindi,1500,1500,1500,Rs/Quintal,Bhindi
+Shahabad,0.58,Tonnes,Bhindi,1200,1800,1300,Rs/Quintal,Bhindi
+Shahzadpur,0.25,Tonnes,Bhindi,1500,2000,1800,Rs/Quintal,Bhindi
+Siwan,0.5,Tonnes,Other,1500,1500,1500,Rs/Quintal,Bhindi
+Sohna,1.85,Tonnes,Bhindi,1200,2200,2000,Rs/Quintal,Bhindi
+Thanesar,2.8,Tonnes,Bhindi,1000,1500,1200,Rs/Quintal,Bhindi
+Bitter gourd,,,,,,,,
+Ambala Cantt.,1.5,Tonnes,Bitter Gourd,1000,1500,1200,Rs/Quintal,Bitter gourd
+Barara,0.08,Tonnes,Other,2000,2000,2000,Rs/Quintal,Bitter gourd
+Barwala(Hisar),0.3,Tonnes,Other,2000,2500,2400,Rs/Quintal,Bitter gourd
+Chhachrauli,0.15,Tonnes,Bitter Gourd,1600,1800,1600,Rs/Quintal,Bitter gourd
+Faridabad,0.35,Tonnes,Other,1000,2000,1500,Rs/Quintal,Bitter gourd
+Ganaur,0.1,Tonnes,Bitter Gourd,3000,4000,3500,Rs/Quintal,Bitter gourd
+Jakhal,0.1,Tonnes,Other,2000,2000,2000,Rs/Quintal,Bitter gourd
+Naraingarh,0.16,Tonnes,Bitter Gourd,1500,2000,1850,Rs/Quintal,Bitter gourd
+"New Grain Market(main), Karnal",0.5,Tonnes,Other,1600,2000,1800,Rs/Quintal,Bitter gourd
+Radaur,2,Tonnes,Other,2000,2800,2500,Rs/Quintal,Bitter gourd
+Raipur Rai,0.4,Tonnes,Bitter Gourd,1800,2000,1800,Rs/Quintal,Bitter gourd
+Sadhaura,0.7,Tonnes,Bitter Gourd,2000,2400,2200,Rs/Quintal,Bitter gourd
+Shahabad,0.25,Tonnes,Bitter Gourd,2200,2500,2300,Rs/Quintal,Bitter gourd
+Sonepat,0.35,Tonnes,Other,2400,2600,2600,Rs/Quintal,Bitter gourd
+Tauru,0.1,Tonnes,Other,4000,4000,4000,Rs/Quintal,Bitter gourd
+Thanesar,1.3,Tonnes,Bitter Gourd,1500,2500,2000,Rs/Quintal,Bitter gourd
+Uklana,0.1,Tonnes,Bitter Gourd,1200,1200,1200,Rs/Quintal,Bitter gourd
+,,,,,,,,
+Ambala Cantt.,1.2,Tonnes,Bottle Gourd,800,1000,900,Rs/Quintal,Bottle gourd
+Barara,1.5,Tonnes,Other,1200,1500,1500,Rs/Quintal,Bottle gourd
+Barwala,12,Tonnes,Other,600,1200,900,Rs/Quintal,Bottle gourd
+Barwala(Hisar),4,Tonnes,Other,800,900,900,Rs/Quintal,Bottle gourd
+Chhachrauli,0.7,Tonnes,Bottle Gourd,600,700,700,Rs/Quintal,Bottle gourd
+Faridabad,9.9,Tonnes,Other,600,1500,1150,Rs/Quintal,Bottle gourd
+Ganaur,1,Tonnes,Bottle Gourd,1500,2000,1800,Rs/Quintal,Bottle gourd
+Gurgaon,16.7,Tonnes,Bottle Gourd,1000,1400,1200,Rs/Quintal,Bottle gourd
+Hissar,11.6,Tonnes,Bottle Gourd,500,800,800,Rs/Quintal,Bottle gourd
+Jagadhri,0.82,Tonnes,Other,400,700,550,Rs/Quintal,Bottle gourd
+Jakhal,0.2,Tonnes,Bottle Gourd,1000,1100,1100,Rs/Quintal,Bottle gourd
+Ladwa,1.3,Tonnes,Bottle Gourd,600,800,700,Rs/Quintal,Bottle gourd
+Naraingarh,2.45,Tonnes,Bottle Gourd,200,800,600,Rs/Quintal,Bottle gourd
+Narnaul,5.4,Tonnes,Other,500,700,600,Rs/Quintal,Bottle gourd
+Narwana,6.6,Tonnes,Bottle Gourd,800,1000,900,Rs/Quintal,Bottle gourd
+"New Grain Market(main), Karnal",11.1,Tonnes,Other,400,700,550,Rs/Quintal,Bottle gourd
+Palwal,4.1,Tonnes,Bottle Gourd,1500,1500,1500,Rs/Quintal,Bottle gourd
+Panipat,10.9,Tonnes,Bottle Gourd,800,1000,900,Rs/Quintal,Bottle gourd
+Pataudi,2.8,Tonnes,Other,400,600,500,Rs/Quintal,Bottle gourd
+Radaur,18,Tonnes,Other,400,600,500,Rs/Quintal,Bottle gourd
+Raipur Rai,2.3,Tonnes,Bottle Gourd,700,1000,700,Rs/Quintal,Bottle gourd
+Sadhaura,3.5,Tonnes,Bottle Gourd,900,1300,1100,Rs/Quintal,Bottle gourd
+Safidon,9,Tonnes,Bottle Gourd,800,800,800,Rs/Quintal,Bottle gourd
+Shahabad,2.1,Tonnes,Bottle Gourd,400,700,500,Rs/Quintal,Bottle gourd
+Shahzadpur,0.2,Tonnes,Bottle Gourd,600,600,600,Rs/Quintal,Bottle gourd
+Siwan,0.9,Tonnes,Other,900,1000,1000,Rs/Quintal,Bottle gourd
+Sohna,3.05,Tonnes,Bottle Gourd,1000,1300,1200,Rs/Quintal,Bottle gourd
+Sonepat,12.3,Tonnes,Other,1200,1400,1400,Rs/Quintal,Bottle gourd
+Tauru,0.2,Tonnes,Other,700,900,800,Rs/Quintal,Bottle gourd
+Thanesar,4.9,Tonnes,Bottle Gourd,500,800,600,Rs/Quintal,Bottle gourd
+Uklana,0.3,Tonnes,Bottle Gourd,700,800,800,Rs/Quintal,Bottle gourd
+,,,,,,,,
+Ambala Cantt.,1.5,Tonnes,Brinjal,1500,1700,1600,Rs/Quintal,Brinjal
+Barara,0.11,Tonnes,Other,2000,2200,2200,Rs/Quintal,Brinjal
+Barwala,2,Tonnes,Other,1000,2000,1500,Rs/Quintal,Brinjal
+Barwala(Hisar),0.5,Tonnes,Other,1400,1500,1500,Rs/Quintal,Brinjal
+Chhachrauli,0.13,Tonnes,Brinjal,1500,3000,1500,Rs/Quintal,Brinjal
+Faridabad,3.65,Tonnes,Other,1000,2400,1750,Rs/Quintal,Brinjal
+Ganaur,0.6,Tonnes,Brinjal,2500,3000,2800,Rs/Quintal,Brinjal
+Gohana,0.2,Tonnes,Other,2000,3000,2500,Rs/Quintal,Brinjal
+Hansi,3.1,Tonnes,Other,1200,1500,1400,Rs/Quintal,Brinjal
+Kosli,0.1,Tonnes,Other,1000,1000,1000,Rs/Quintal,Brinjal
+Ladwa,0.1,Tonnes,Brinjal,2100,2500,2300,Rs/Quintal,Brinjal
+Meham,0.3,Tonnes,Other,2000,2000,2000,Rs/Quintal,Brinjal
+Naraingarh,1.19,Tonnes,Brinjal,600,2000,1100,Rs/Quintal,Brinjal
+Narnaul,1,Tonnes,Other,1000,1800,1500,Rs/Quintal,Brinjal
+"New Grain Market(main), Karnal",6.5,Tonnes,Other,1000,1200,1100,Rs/Quintal,Brinjal
+Palwal,2,Tonnes,Brinjal,1500,1500,1500,Rs/Quintal,Brinjal
+Pataudi,2.9,Tonnes,Other,2000,2500,2200,Rs/Quintal,Brinjal
+Radaur,5,Tonnes,Other,1700,2000,1800,Rs/Quintal,Brinjal
+Raipur Rai,0.05,Tonnes,Other,1500,1600,1500,Rs/Quintal,Brinjal
+Shahabad,0.88,Tonnes,Brinjal,800,1500,1200,Rs/Quintal,Brinjal
+Shahzadpur,0.35,Tonnes,Brinjal,1000,2000,1500,Rs/Quintal,Brinjal
+Siwan,0.6,Tonnes,Other,1200,1300,1300,Rs/Quintal,Brinjal
+Sohna,2.3,Tonnes,Brinjal,1800,2500,2200,Rs/Quintal,Brinjal
+Sonepat,5.3,Tonnes,Other,2800,3400,3400,Rs/Quintal,Brinjal
+Thanesar,4.6,Tonnes,Brinjal,600,1200,1000,Rs/Quintal,Brinjal
+Uklana,0.1,Tonnes,Other,1500,1500,1500,Rs/Quintal,Brinjal
+,,,,,,,,
+Ambala Cantt.,1.4,Tonnes,Cabbage,1000,1500,1200,Rs/Quintal,Cabbage
+Barara,0.06,Tonnes,Other,1400,1500,1500,Rs/Quintal,Cabbage
+Barwala(Hisar),0.1,Tonnes,Other,1500,2000,1800,Rs/Quintal,Cabbage
+Faridabad,1.5,Tonnes,Other,1000,2000,1500,Rs/Quintal,Cabbage
+Ganaur,0.4,Tonnes,Cabbage,3000,4000,3500,Rs/Quintal,Cabbage
+Gurgaon,16.7,Tonnes,Other,1000,2000,1500,Rs/Quintal,Cabbage
+Hansi,1.1,Tonnes,Other,2000,2000,2000,Rs/Quintal,Cabbage
+Ladwa,0.6,Tonnes,Cabbage,2300,2500,2400,Rs/Quintal,Cabbage
+Naraingarh,0.5,Tonnes,Other,1000,3000,1500,Rs/Quintal,Cabbage
+Narnaul,0.8,Tonnes,Other,2000,2500,2200,Rs/Quintal,Cabbage
+"New Grain Market(main), Karnal",4.8,Tonnes,Other,1200,1500,1350,Rs/Quintal,Cabbage
+Palwal,1.6,Tonnes,Cabbage,1000,1500,1250,Rs/Quintal,Cabbage
+Panipat,7.4,Tonnes,Other,1200,1600,1400,Rs/Quintal,Cabbage
+Radaur,2,Tonnes,Other,1500,2000,1800,Rs/Quintal,Cabbage
+Safidon,4.5,Tonnes,Cabbage,4000,4000,4000,Rs/Quintal,Cabbage
+Shahabad,0.48,Tonnes,Cabbage,2000,2200,2100,Rs/Quintal,Cabbage
+Thanesar,2.1,Tonnes,Cabbage,1000,2000,1500,Rs/Quintal,Cabbage
+,,,,,,,,
+Ambala Cantt.,1.5,Tonnes,Other,2500,3000,2800,Rs/Quintal,Capsicum
+Barara,0.05,Tonnes,Other,2500,2500,2500,Rs/Quintal,Capsicum
+Ganaur,1,Tonnes,Capsicum,5000,6000,5500,Rs/Quintal,Capsicum
+Jagadhri,0.17,Tonnes,Other,2800,3500,3000,Rs/Quintal,Capsicum
+Ladwa,0.2,Tonnes,Capsicum,5000,5500,5300,Rs/Quintal,Capsicum
+Meham,2,Tonnes,Capsicum,4000,4000,4000,Rs/Quintal,Capsicum
+Naraingarh,0.32,Tonnes,Capsicum,1500,3000,2500,Rs/Quintal,Capsicum
+Narnaul,0.2,Tonnes,Other,5000,5000,5000,Rs/Quintal,Capsicum
+"New Grain Market(main), Karnal",1,Tonnes,Other,2500,4500,3500,Rs/Quintal,Capsicum
+Radaur,1,Tonnes,Capsicum,3500,4000,3600,Rs/Quintal,Capsicum
+Raipur Rai,0.6,Tonnes,Capsicum,2000,2500,2000,Rs/Quintal,Capsicum
+Sadhaura,0.1,Tonnes,Capsicum,3400,3400,3400,Rs/Quintal,Capsicum
+Shahabad,0.19,Tonnes,Capsicum,4000,4500,4200,Rs/Quintal,Capsicum
+Shahzadpur,0.1,Tonnes,Capsicum,2600,2600,2600,Rs/Quintal,Capsicum
+Sonepat,1.6,Tonnes,Other,2400,2600,2600,Rs/Quintal,Capsicum
+Tauru,0.1,Tonnes,Capsicum,6000,6000,6000,Rs/Quintal,Capsicum
+Thanesar,1.2,Tonnes,Capsicum,3000,5000,4000,Rs/Quintal,Capsicum
+,,,,,,,,
+Ambala Cantt.,1.4,Tonnes,Carrot,1000,1200,1100,Rs/Quintal,Carrot
+Ladwa,0.1,Tonnes,Carrot,6000,6000,6000,Rs/Quintal,Carrot
+Naraingarh,0.06,Tonnes,Carrot,1500,2000,1750,Rs/Quintal,Carrot
+Shahabad,0.17,Tonnes,Carrot,2500,2500,2500,Rs/Quintal,Carrot
+Sonepat,0.4,Tonnes,Other,4000,4400,4400,Rs/Quintal,Carrot
+Thanesar,0.5,Tonnes,Carrot,1500,2500,2000,Rs/Quintal,Carrot
+,,,,,,,,
+Ambala Cantt.,1.4,Tonnes,Cauliflower,1600,3000,2800,Rs/Quintal,Cauliflower
+Barwala,1,Tonnes,Other,3000,4000,3500,Rs/Quintal,Cauliflower
+Barwala(Hisar),0.7,Tonnes,Other,2500,3000,2800,Rs/Quintal,Cauliflower
+Faridabad,1.98,Tonnes,Cauliflower,2000,3500,2750,Rs/Quintal,Cauliflower
+Ganaur,0.3,Tonnes,Other,3500,4000,3800,Rs/Quintal,Cauliflower
+Gurgaon,14.6,Tonnes,Other,2000,4000,3000,Rs/Quintal,Cauliflower
+Hansi,0.8,Tonnes,Other,4000,4000,4000,Rs/Quintal,Cauliflower
+Ladwa,0.4,Tonnes,Cauliflower,2500,3500,3000,Rs/Quintal,Cauliflower
+Naraingarh,1.03,Tonnes,Cauliflower,1500,3000,2200,Rs/Quintal,Cauliflower
+Narnaul,0.8,Tonnes,Other,2000,4000,3800,Rs/Quintal,Cauliflower
+"New Grain Market(main), Karnal",4.9,Tonnes,Other,1500,3000,2250,Rs/Quintal,Cauliflower
+Palwal,1.3,Tonnes,Cauliflower,3000,3000,3000,Rs/Quintal,Cauliflower
+Radaur,3,Tonnes,Other,4000,4500,4200,Rs/Quintal,Cauliflower
+Raipur Rai,0.1,Tonnes,Cauliflower,3000,3500,3000,Rs/Quintal,Cauliflower
+Rohtak,0.8,Tonnes,Other,2000,4000,3000,Rs/Quintal,Cauliflower
+Sadhaura,0.2,Tonnes,Cauliflower,3500,4000,3800,Rs/Quintal,Cauliflower
+Shahabad,1.5,Tonnes,Cauliflower,2000,4000,3500,Rs/Quintal,Cauliflower
+Shahzadpur,0.31,Tonnes,Cauliflower,2000,4000,2500,Rs/Quintal,Cauliflower
+Siwan,0.3,Tonnes,Other,3000,3000,3000,Rs/Quintal,Cauliflower
+Sonepat,2.1,Tonnes,Other,4800,6000,6000,Rs/Quintal,Cauliflower
+Tauru,0.2,Tonnes,Local,6000,6000,6000,Rs/Quintal,Cauliflower
+,,,,,,,,
+Shahabad,0.11,Tonnes,Cluster Beans,4500,4500,4500,Rs/Quintal,Cluster beans
+Thanesar,4,Tonnes,Cluster Beans,4000,6000,5000,Rs/Quintal,Cluster beans
+,,,,,,,,
+Ambala Cantt.,1.2,Tonnes,Colacasia,2000,2500,2200,Rs/Quintal,Colacasia
+Chhachrauli,0.25,Tonnes,Other,2500,3000,2500,Rs/Quintal,Colacasia
+Ladwa,0.5,Tonnes,Other,2000,3000,2500,Rs/Quintal,Colacasia
+Meham,2,Tonnes,Other,1000,1200,1100,Rs/Quintal,Colacasia
+Naraingarh,0.29,Tonnes,Other,2000,2500,2200,Rs/Quintal,Colacasia
+Shahabad,0.35,Tonnes,Other,2500,3800,3500,Rs/Quintal,Colacasia
+Thanesar,2.2,Tonnes,Colacasia,3000,4000,3500,Rs/Quintal,Colacasia
+,,,,,,,,
+Raipur Rai,0.04,Tonnes,Coriander,3000,3500,3000,Rs/Quintal,Coriander(Leaves)
+Thanesar,0.2,Tonnes,Coriander,10000,20000,15000,Rs/Quintal,Coriander(Leaves)
+,,,,,,,,
+Ambala Cantt.,2,Tonnes,Cucumbar,1200,1700,1500,Rs/Quintal,Cucumbar
+Barwala(Hisar),1.5,Tonnes,Other,2500,3000,2800,Rs/Quintal,Cucumbar
+Faridabad,3.08,Tonnes,Other,1000,2500,1750,Rs/Quintal,Cucumbar
+Ganaur,0.7,Tonnes,Cucumbar,2500,3000,2800,Rs/Quintal,Cucumbar
+Gohana,1.3,Tonnes,Other,2000,4000,3000,Rs/Quintal,Cucumbar
+Hansi,5.2,Tonnes,Other,2000,2000,2000,Rs/Quintal,Cucumbar
+Hissar,9.3,Tonnes,Other,1600,2600,2200,Rs/Quintal,Cucumbar
+Jakhal,0.3,Tonnes,Other,2000,2200,2200,Rs/Quintal,Cucumbar
+Kosli,0.1,Tonnes,Other,1500,1500,1500,Rs/Quintal,Cucumbar
+Ladwa,0.5,Tonnes,Cucumbar,1400,1500,1450,Rs/Quintal,Cucumbar
+Meham,0.2,Tonnes,Cucumbar,2000,2000,2000,Rs/Quintal,Cucumbar
+Naraingarh,0.6,Tonnes,Cucumbar,1500,2200,2000,Rs/Quintal,Cucumbar
+Narnaul,1.9,Tonnes,Other,1000,2500,2000,Rs/Quintal,Cucumbar
+Narwana,1,Tonnes,Cucumbar,2000,2500,2500,Rs/Quintal,Cucumbar
+"New Grain Market(main), Karnal",7.9,Tonnes,Other,2000,3000,2500,Rs/Quintal,Cucumbar
+Palwal,2.1,Tonnes,Cucumbar,1000,1000,1000,Rs/Quintal,Cucumbar
+Panipat,11.5,Tonnes,Other,1000,1800,1400,Rs/Quintal,Cucumbar
+Pataudi,4.6,Tonnes,Other,2000,2400,2200,Rs/Quintal,Cucumbar
+Radaur,4,Tonnes,Other,2000,2400,2200,Rs/Quintal,Cucumbar
+Raipur Rai,0.12,Tonnes,Other,1400,1600,1400,Rs/Quintal,Cucumbar
+Rania,0.1,Tonnes,Other,1600,1800,1700,Rs/Quintal,Cucumbar
+Sadhaura,0.5,Tonnes,Cucumbar,1200,1600,1400,Rs/Quintal,Cucumbar
+Shahabad,0.49,Tonnes,Cucumbar,2500,3000,2700,Rs/Quintal,Cucumbar
+Shahzadpur,0.16,Tonnes,Cucumbar,1800,2000,1800,Rs/Quintal,Cucumbar
+Siwan,0.3,Tonnes,Other,1500,1600,1600,Rs/Quintal,Cucumbar
+Sohna,2.05,Tonnes,Cucumbar,1500,2500,2000,Rs/Quintal,Cucumbar
+Sonepat,8.9,Tonnes,Other,3100,3600,3600,Rs/Quintal,Cucumbar
+Thanesar,4.2,Tonnes,Cucumbar,3000,4000,3500,Rs/Quintal,Cucumbar
+Uklana,0.2,Tonnes,Cucumbar,1800,2000,2000,Rs/Quintal,Cucumbar
+,,,,,,,,
+Ambala Cantt.,1.6,Tonnes,French Beans (Frasbean),2000,4700,3500,Rs/Quintal,French Beans (Frasbean)
+Naraingarh,0.27,Tonnes,Other,2000,3000,2500,Rs/Quintal,French Beans (Frasbean)
+,,,,,,,,
+Faridabad,0.02,Tonnes,Green Ginger,3500,7000,5500,Rs/Quintal,Ginger(Green)
+Ganaur,2,Tonnes,Green Ginger,10000,12000,10000,Rs/Quintal,Ginger(Green)
+Jagadhri,0.29,Tonnes,Other,2800,4000,3400,Rs/Quintal,Ginger(Green)
+Narnaul,4,Tonnes,Green Ginger,5000,5000,5000,Rs/Quintal,Ginger(Green)
+Palwal,0.4,Tonnes,Green Ginger,4000,5000,4500,Rs/Quintal,Ginger(Green)
+Raipur Rai,0.5,Tonnes,Green Ginger,3500,4000,3500,Rs/Quintal,Ginger(Green)
+Sonepat,0.5,Tonnes,Other,9600,9900,9600,Rs/Quintal,Ginger(Green)
+Thanesar,1.4,Tonnes,Green Ginger,3000,4000,3500,Rs/Quintal,Ginger(Green)
+,,,,,,,,
+Ambala Cantt.,1.6,Tonnes,Green Chilly,2500,3000,2800,Rs/Quintal,Green Chilli
+Chhachrauli,0.03,Tonnes,Green Chilly,6000,6000,6000,Rs/Quintal,Green Chilli
+Faridabad,1.95,Tonnes,Other,2000,4000,3000,Rs/Quintal,Green Chilli
+Ganaur,0.4,Tonnes,Green Chilly,6000,6500,6200,Rs/Quintal,Green Chilli
+Gohana,1.1,Tonnes,Other,3000,5000,4000,Rs/Quintal,Green Chilli
+Jagadhri,0.39,Tonnes,Other,2300,3200,2800,Rs/Quintal,Green Chilli
+Ladwa,0.1,Tonnes,Green Chilly,2000,2000,2000,Rs/Quintal,Green Chilli
+Naraingarh,1.04,Tonnes,Green Chilly,1200,3000,2000,Rs/Quintal,Green Chilli
+Narnaul,0.7,Tonnes,Other,3000,5000,5000,Rs/Quintal,Green Chilli
+Radaur,4,Tonnes,Other,3000,4000,3500,Rs/Quintal,Green Chilli
+Raipur Rai,0.08,Tonnes,Other,2000,2500,2000,Rs/Quintal,Green Chilli
+Rania,0.1,Tonnes,Green Chilly,1700,1900,1780,Rs/Quintal,Green Chilli
+Shahabad,0.53,Tonnes,Green Chilly,1800,3000,2500,Rs/Quintal,Green Chilli
+Shahzadpur,0.2,Tonnes,Green Chilly,2000,2500,2500,Rs/Quintal,Green Chilli
+Sonepat,1.8,Tonnes,Other,2450,2800,2780,Rs/Quintal,Green Chilli
+Tauru,0.2,Tonnes,Other,4000,4000,4000,Rs/Quintal,Green Chilli
+Thanesar,3.2,Tonnes,Green Chilly,2000,4000,3000,Rs/Quintal,Green Chilli
+,,,,,,,,
+Adampur,82.7,Tonnes,Gwar,4390,5165,4950,Rs/Quintal,Guar
+,,,,,,,,
+Barwala(Hisar),0.3,Tonnes,Other,1200,1500,1400,Rs/Quintal,Leafy Vegetable
+Siwan,0.6,Tonnes,Other,1300,2000,1500,Rs/Quintal,Leafy Vegetable
+,,,,,,,,
+Ganaur,0.1,Tonnes,Lemon,12000,14000,12000,Rs/Quintal,Lemon
+Gohana,0.2,Tonnes,Other,8000,10000,9000,Rs/Quintal,Lemon
+Hansi,1.5,Tonnes,Other,5000,6000,5500,Rs/Quintal,Lemon
+Jagadhri,0.2,Tonnes,Other,4200,8000,6500,Rs/Quintal,Lemon
+Ladwa,0.2,Tonnes,Lemon,6000,8000,7000,Rs/Quintal,Lemon
+Naraingarh,0.06,Tonnes,Other,6000,7000,6300,Rs/Quintal,Lemon
+Narnaul,0.3,Tonnes,Other,5000,6000,6000,Rs/Quintal,Lemon
+"New Grain Market(main), Karnal",0.2,Tonnes,Other,4000,5000,4500,Rs/Quintal,Lemon
+Radaur,2,Tonnes,Other,4000,4500,4200,Rs/Quintal,Lemon
+Rania,2,Tonnes,Lemon,1400,1800,1500,Rs/Quintal,Lemon
+Shahabad,0.25,Tonnes,Other,1500,7000,5000,Rs/Quintal,Lemon
+Tauru,0.1,Tonnes,Other,12000,12000,12000,Rs/Quintal,Lemon
+Thanesar,1.2,Tonnes,Lemon,4000,9000,6000,Rs/Quintal,Lemon
+,,,,,,,,
+Faridabad,12.5,Tonnes,Little gourd (Kundru),1500,2000,1750,Rs/Quintal,Little gourd (Kundru)
+,,,,,,,,
+Thanesar,0.2,Tonnes,Mashrooms,8000,12000,10000,Rs/Quintal,Mashrooms
+,,,,,,,,
+Thanesar,0.3,Tonnes,Mint(Pudina),3000,4000,3500,Rs/Quintal,Mint(Pudina)
+,,,,,,,,
+Barara,1.03,Tonnes,Other,2000,3500,3500,Rs/Quintal,Onion
+Barwala,5,Tonnes,Onion,4000,4000,4000,Rs/Quintal,Onion
+Chhachrauli,0.09,Tonnes,Onion,4200,5000,4200,Rs/Quintal,Onion
+Ganaur,1.2,Tonnes,Onion,4000,4500,4200,Rs/Quintal,Onion
+Gharaunda,1.4,Tonnes,Other,3900,4300,4300,Rs/Quintal,Onion
+Gohana,6.4,Tonnes,Other,3000,4000,3500,Rs/Quintal,Onion
+Gurgaon,67.2,Tonnes,Other,2000,4000,3000,Rs/Quintal,Onion
+Hansi,6.8,Tonnes,Other,4000,4000,4000,Rs/Quintal,Onion
+Hissar,22,Tonnes,Other,2800,4000,3500,Rs/Quintal,Onion
+Indri,0.6,Tonnes,Other,3000,4200,4000,Rs/Quintal,Onion
+Jagadhri,3.55,Tonnes,Other,3600,4450,4150,Rs/Quintal,Onion
+Jakhal,0.2,Tonnes,Other,4300,4300,4300,Rs/Quintal,Onion
+Jhajjar,1,Tonnes,Other,4000,4400,4200,Rs/Quintal,Onion
+kalanwali,0.4,Tonnes,Other,2500,2500,2500,Rs/Quintal,Onion
+Ladwa,0.6,Tonnes,Onion,3700,4000,3900,Rs/Quintal,Onion
+Madlauda,0.4,Tonnes,Other,3000,3000,3000,Rs/Quintal,Onion
+Meham,1.1,Tonnes,Other,3000,3000,3000,Rs/Quintal,Onion
+Naraingarh,0.2,Tonnes,Onion,3000,3000,3000,Rs/Quintal,Onion
+Narnaul,1.9,Tonnes,Other,3200,4000,3500,Rs/Quintal,Onion
+Narwana,4,Tonnes,Other,3000,3000,3000,Rs/Quintal,Onion
+"New Grain Market(main), Karnal",16,Tonnes,Other,2500,4000,3250,Rs/Quintal,Onion
+Palwal,2.5,Tonnes,Onion,3000,3000,3000,Rs/Quintal,Onion
+Panipat,26,Tonnes,Other,2000,3000,2500,Rs/Quintal,Onion
+Pataudi,0.5,Tonnes,Other,4000,4500,4200,Rs/Quintal,Onion
+Punhana,1,Tonnes,Other,3500,3500,3500,Rs/Quintal,Onion
+Radaur,12,Tonnes,Other,2800,3200,3000,Rs/Quintal,Onion
+Raipur Rai,0.15,Tonnes,Other,1800,2000,1800,Rs/Quintal,Onion
+Rania,0.2,Tonnes,Other,1900,2100,2000,Rs/Quintal,Onion
+Rewari,2.9,Tonnes,Medium,1000,4800,2900,Rs/Quintal,Onion
+Rohtak,13.6,Tonnes,Other,1500,3000,2500,Rs/Quintal,Onion
+Sadhaura,0.4,Tonnes,Onion,3600,4000,3800,Rs/Quintal,Onion
+Safidon,2,Tonnes,Other,3000,3000,3000,Rs/Quintal,Onion
+Shahabad,6.35,Tonnes,Onion,3510,4400,4000,Rs/Quintal,Onion
+Shahzadpur,0.3,Tonnes,Local,3000,3000,3000,Rs/Quintal,Onion
+Siwan,0.3,Tonnes,Other,3400,3500,3500,Rs/Quintal,Onion
+Sohna,1.4,Tonnes,Onion,3500,4000,3800,Rs/Quintal,Onion
+Sonepat,17,Tonnes,Other,3500,3800,3800,Rs/Quintal,Onion
+Thanesar,15.9,Tonnes,Onion,4000,4800,4400,Rs/Quintal,Onion
+Tohana(New Veg Market),1,Tonnes,Onion,4000,4000,4000,Rs/Quintal,Onion
+Uklana,0.3,Tonnes,Onion,3500,3500,3500,Rs/Quintal,Onion
+,,,,,,,,
+Barwala,1,Tonnes,Other,10000,10000,10000,Rs/Quintal,Peas cod
+"New Grain Market(main), Karnal",0.6,Tonnes,Other,4000,9000,6500,Rs/Quintal,Peas cod
+,,,,,,,,
+Ambala Cantt.,1.3,Tonnes,Peas Wet,5000,6000,5500,Rs/Quintal,Peas Wet
+Ganaur,0.05,Tonnes,Peas Wet,12000,13000,12000,Rs/Quintal,Peas Wet
+Hansi,0.1,Tonnes,Other,8000,8000,8000,Rs/Quintal,Peas Wet
+Naraingarh,0.16,Tonnes,Peas Wet,4000,4000,4000,Rs/Quintal,Peas Wet
+Raipur Rai,0.06,Tonnes,Other,3000,3500,3000,Rs/Quintal,Peas Wet
+Shahabad,0.1,Tonnes,Peas Wet,8500,9000,8700,Rs/Quintal,Peas Wet
+Sonepat,0.35,Tonnes,Other,13000,13500,13500,Rs/Quintal,Peas Wet
+Thanesar,0.8,Tonnes,Peas Wet,6000,8000,7000,Rs/Quintal,Peas Wet
+,,,,,,,,
+Faridabad,5,Tonnes,Other,1500,2500,2000,Rs/Quintal,Pointed gourd (Parval)
+Narnaul,0.6,Tonnes,Other,1500,2500,2000,Rs/Quintal,Pointed gourd (Parval)
+,,,,,,,,
+Ambala Cantt.,13.8,Tonnes,Other,1300,1600,1400,Rs/Quintal,Potato
+Barara,1.4,Tonnes,Other,1800,2500,2500,Rs/Quintal,Potato
+Barwala,32,Tonnes,Other,1400,1400,1400,Rs/Quintal,Potato
+Barwala(Hisar),6.2,Tonnes,Other,1500,2000,1800,Rs/Quintal,Potato
+Cheeka,2,Tonnes,Other,1600,1800,1700,Rs/Quintal,Potato
+Chhachrauli,0.15,Tonnes,Potato,2000,2400,2000,Rs/Quintal,Potato
+Dhand,0.5,Tonnes,Other,2000,2100,2080,Rs/Quintal,Potato
+Ganaur,2.8,Tonnes,Potato,2000,2500,2200,Rs/Quintal,Potato
+Gharaunda,0.7,Tonnes,Other,2000,2500,2500,Rs/Quintal,Potato
+Gohana,19,Tonnes,Other,1500,2600,2500,Rs/Quintal,Potato
+Gurgaon,176.2,Tonnes,Other,1000,2000,1500,Rs/Quintal,Potato
+Hansi,27.9,Tonnes,Other,2000,3500,2000,Rs/Quintal,Potato
+Hissar,31.4,Tonnes,Other,1600,2700,2300,Rs/Quintal,Potato
+Indri,0.95,Tonnes,Other,1500,2000,2000,Rs/Quintal,Potato
+Jagadhri,3.9,Tonnes,Other,1560,1900,1780,Rs/Quintal,Potato
+Jakhal,0.3,Tonnes,Other,1500,1900,1900,Rs/Quintal,Potato
+Jhajjar,10,Tonnes,Other,2400,2600,2500,Rs/Quintal,Potato
+Kosli,0.1,Tonnes,Other,1500,1500,1500,Rs/Quintal,Potato
+Ladwa,0.2,Tonnes,Potato,2500,2500,2500,Rs/Quintal,Potato
+Madlauda,0.6,Tonnes,Other,2100,2100,2100,Rs/Quintal,Potato
+Meham,0.8,Tonnes,(Red Nanital),2000,3000,2500,Rs/Quintal,Potato
+Naraingarh,4.67,Tonnes,Potato,850,2000,1500,Rs/Quintal,Potato
+Narnaul,3,Tonnes,Other,2300,2500,2500,Rs/Quintal,Potato
+"New Grain Market(main), Karnal",52,Tonnes,Other,1400,2000,1700,Rs/Quintal,Potato
+Palwal,15,Tonnes,Potato,2000,2000,2000,Rs/Quintal,Potato
+Panipat,77.3,Tonnes,Other,1200,2000,1600,Rs/Quintal,Potato
+Pataudi,3,Tonnes,Other,2000,2300,2200,Rs/Quintal,Potato
+Pehowa,0.2,Tonnes,Other,600,600,600,Rs/Quintal,Potato
+Punhana,2,Tonnes,Other,2000,2000,2000,Rs/Quintal,Potato
+Radaur,28,Tonnes,Other,1800,2200,2000,Rs/Quintal,Potato
+Raipur Rai,0.35,Tonnes,Other,1400,1600,1400,Rs/Quintal,Potato
+Rania,0.2,Tonnes,Other,1500,1800,1700,Rs/Quintal,Potato
+Rewari,7.5,Tonnes,Other,1000,3000,2000,Rs/Quintal,Potato
+Rohtak,45.7,Tonnes,Other,1000,2000,1500,Rs/Quintal,Potato
+Sadhaura,1.1,Tonnes,Potato,1400,1800,1600,Rs/Quintal,Potato
+Safidon,7.7,Tonnes,Other,2000,2000,2000,Rs/Quintal,Potato
+Shahabad,2.5,Tonnes,Potato,2000,2000,2000,Rs/Quintal,Potato
+Siwan,0.6,Tonnes,Other,2000,2000,2000,Rs/Quintal,Potato
+Sohna,6.8,Tonnes,Potato,2000,2200,2200,Rs/Quintal,Potato
+Sonepat,22.25,Tonnes,Other,2100,2500,2500,Rs/Quintal,Potato
+Tauru,6,Tonnes,Potato,2400,3000,2500,Rs/Quintal,Potato
+Thanesar,9.4,Tonnes,Potato,1400,2800,2000,Rs/Quintal,Potato
+Tohana(New Veg Market),9.1,Tonnes,Potato,1800,1850,1800,Rs/Quintal,Potato
+Uklana,0.4,Tonnes,Potato,1800,1800,1800,Rs/Quintal,Potato
+,,,,,,,,
+Ambala Cantt.,1.6,Tonnes,Other,1000,1500,1200,Rs/Quintal,Pumpkin
+Chhachrauli,0.12,Tonnes,Pumpkin,1800,2500,1800,Rs/Quintal,Pumpkin
+Faridabad,30.25,Tonnes,Other,1000,2000,1500,Rs/Quintal,Pumpkin
+Ganaur,4,Tonnes,Pumpkin,2000,2500,2200,Rs/Quintal,Pumpkin
+Hissar,1.9,Tonnes,Other,700,1400,1200,Rs/Quintal,Pumpkin
+Ladwa,0.9,Tonnes,Pumpkin,1000,1800,1400,Rs/Quintal,Pumpkin
+Naraingarh,1.39,Tonnes,Pumpkin,300,1400,800,Rs/Quintal,Pumpkin
+Narnaul,0.5,Tonnes,Other,1300,1500,1500,Rs/Quintal,Pumpkin
+"New Grain Market(main), Karnal",1.3,Tonnes,Other,500,600,550,Rs/Quintal,Pumpkin
+Palwal,1.9,Tonnes,Pumpkin,1000,1000,1000,Rs/Quintal,Pumpkin
+Radaur,10,Tonnes,Other,1500,2000,1600,Rs/Quintal,Pumpkin
+Raipur Rai,1.5,Tonnes,Pumpkin,800,1200,800,Rs/Quintal,Pumpkin
+Sadhaura,0.6,Tonnes,Other,1400,1800,1600,Rs/Quintal,Pumpkin
+Shahabad,0.8,Tonnes,Pumpkin,1200,1500,1300,Rs/Quintal,Pumpkin
+Shahzadpur,0.1,Tonnes,Pumpkin,1000,1000,1000,Rs/Quintal,Pumpkin
+Tauru,0.2,Tonnes,Other,2000,2000,2000,Rs/Quintal,Pumpkin
+Thanesar,3.8,Tonnes,Pumpkin,800,1200,1000,Rs/Quintal,Pumpkin
+,,,,,,,,
+Hansi,0.7,Tonnes,Other,1000,1200,1100,Rs/Quintal,Raddish
+Ladwa,0.1,Tonnes,Raddish,1500,1500,1500,Rs/Quintal,Raddish
+Naraingarh,0.25,Tonnes,Raddish,800,1500,1000,Rs/Quintal,Raddish
+Radaur,3,Tonnes,Other,1200,1500,1400,Rs/Quintal,Raddish
+Sadhaura,0.2,Tonnes,Raddish,1000,1200,1100,Rs/Quintal,Raddish
+Shahabad,0.3,Tonnes,Raddish,1600,1600,1600,Rs/Quintal,Raddish
+Siwan,0.2,Tonnes,Other,1400,1500,1500,Rs/Quintal,Raddish
+Thanesar,3.1,Tonnes,Raddish,1000,2000,1500,Rs/Quintal,Raddish
+,,,,,,,,
+Chhachrauli,0.3,Tonnes,Ridgeguard(Tori),1000,1200,1200,Rs/Quintal,Ridgeguard(Tori)
+Ganaur,0.3,Tonnes,Ridgeguard(Tori),2000,3000,2500,Rs/Quintal,Ridgeguard(Tori)
+Hansi,1.4,Tonnes,Other,1500,1500,1500,Rs/Quintal,Ridgeguard(Tori)
+Jakhal,0.3,Tonnes,Other,2900,3500,3500,Rs/Quintal,Ridgeguard(Tori)
+kalanwali,0.2,Tonnes,Other,1500,1500,1500,Rs/Quintal,Ridgeguard(Tori)
+Meham,0.1,Tonnes,Ridgeguard(Tori),2500,2500,2500,Rs/Quintal,Ridgeguard(Tori)
+Naraingarh,0.63,Tonnes,Ridgeguard(Tori),500,2000,1100,Rs/Quintal,Ridgeguard(Tori)
+Radaur,3,Tonnes,Other,2000,2000,2000,Rs/Quintal,Ridgeguard(Tori)
+Rania,1,Tonnes,Other,1600,1800,1700,Rs/Quintal,Ridgeguard(Tori)
+Sohna,1.1,Tonnes,Ridgeguard(Tori),1000,1800,1400,Rs/Quintal,Ridgeguard(Tori)
+Tauru,0.2,Tonnes,Other,2000,2000,2000,Rs/Quintal,Ridgeguard(Tori)
+,,,,,,,,
+Barwala(Hisar),0.3,Tonnes,Other,1100,1200,1200,Rs/Quintal,Round gourd
+,,,,,,,,
+Ganaur,0.2,Tonnes,Spinach,2500,3000,2800,Rs/Quintal,Spinach
+Hansi,0.9,Tonnes,Other,1000,1200,1100,Rs/Quintal,Spinach
+Meham,5,Tonnes,Other,1000,1000,1000,Rs/Quintal,Spinach
+Naraingarh,0.24,Tonnes,Spinach,1500,3000,1800,Rs/Quintal,Spinach
+Radaur,3,Tonnes,Other,1200,2000,1800,Rs/Quintal,Spinach
+Shahabad,0.29,Tonnes,Spinach,1500,2000,1700,Rs/Quintal,Spinach
+Sonepat,0.7,Tonnes,Other,1500,2000,2000,Rs/Quintal,Spinach
+Thanesar,0.6,Tonnes,Spinach,1500,2500,2000,Rs/Quintal,Spinach
+,,,,,,,,
+Faridabad,5.03,Tonnes,Other,800,2000,1400,Rs/Quintal,Sponge gourd
+Narnaul,0.8,Tonnes,Other,1500,1800,1800,Rs/Quintal,Sponge gourd
+Sadhaura,0.8,Tonnes,Other,900,1400,1200,Rs/Quintal,Sponge gourd
+Shahabad,0.24,Tonnes,Other,1200,1800,1500,Rs/Quintal,Sponge gourd
+Shahzadpur,0.1,Tonnes,Other,2000,2000,2000,Rs/Quintal,Sponge gourd
+Thanesar,3.5,Tonnes,Sponge gourd,1000,2000,1500,Rs/Quintal,Sponge gourd
+,,,,,,,,
+Barwala(Hisar),0.2,Tonnes,Other,3000,3500,3300,Rs/Quintal,Tinda
+Faridabad,0.1,Tonnes,Other,1800,2000,1900,Rs/Quintal,Tinda
+Hansi,0.8,Tonnes,Other,2500,2500,2500,Rs/Quintal,Tinda
+Narnaul,0.4,Tonnes,Other,2000,2500,2500,Rs/Quintal,Tinda
+Raipur Rai,0.05,Tonnes,Other,2400,2500,2400,Rs/Quintal,Tinda
+Shahabad,0.04,Tonnes,Tinda,2500,2500,2500,Rs/Quintal,Tinda
+,,,,,,,,
+Ambala Cantt.,8.6,Tonnes,Other,1500,2600,2200,Rs/Quintal,Tomato
+Barara,0.52,Tonnes,Other,1800,2500,2500,Rs/Quintal,Tomato
+Barwala,30,Tonnes,Other,2000,3000,2500,Rs/Quintal,Tomato
+Barwala(Hisar),2.6,Tonnes,Other,1800,2000,1900,Rs/Quintal,Tomato
+Dhand,0.4,Tonnes,Deshi,2200,3000,2800,Rs/Quintal,Tomato
+Ganaur,1.5,Tonnes,Tomato,3000,4000,3500,Rs/Quintal,Tomato
+Gharaunda,0.8,Tonnes,Other,2000,2500,2500,Rs/Quintal,Tomato
+Gohana,3.6,Tonnes,Tomato,3000,4000,3500,Rs/Quintal,Tomato
+Gurgaon,62.8,Tonnes,Other,2000,3000,2500,Rs/Quintal,Tomato
+Hansi,13.4,Tonnes,Other,2000,2000,2000,Rs/Quintal,Tomato
+Hissar,15.8,Tonnes,Other,1500,2000,1800,Rs/Quintal,Tomato
+Indri,0.6,Tonnes,Other,2000,3500,3000,Rs/Quintal,Tomato
+Jagadhri,1.48,Tonnes,Other,1600,2300,2000,Rs/Quintal,Tomato
+Jakhal,0.1,Tonnes,Other,2100,2100,2100,Rs/Quintal,Tomato
+Jhajjar,3.6,Tonnes,Other,2800,3200,3000,Rs/Quintal,Tomato
+kalanwali,0.3,Tonnes,Other,2000,2000,2000,Rs/Quintal,Tomato
+Ladwa,2,Tonnes,Tomato,1800,2500,2100,Rs/Quintal,Tomato
+Madlauda,0.15,Tonnes,Other,3000,3000,3000,Rs/Quintal,Tomato
+Meham,0.8,Tonnes,Deshi,2500,3000,2800,Rs/Quintal,Tomato
+Naraingarh,2.8,Tonnes,Tomato,1000,2000,1800,Rs/Quintal,Tomato
+Narnaul,4.4,Tonnes,Other,2000,2500,2400,Rs/Quintal,Tomato
+Narwana,0.8,Tonnes,Other,2000,2500,2500,Rs/Quintal,Tomato
+"New Grain Market , Faridabad",52,Tonnes,Deshi,1000,2500,1750,Rs/Quintal,Tomato
+"New Grain Market(main), Karnal",15.8,Tonnes,Other,1400,2500,1950,Rs/Quintal,Tomato
+Palwal,3.2,Tonnes,Tomato,3000,4000,3500,Rs/Quintal,Tomato
+Panipat,19.6,Tonnes,Other,1000,2000,1500,Rs/Quintal,Tomato
+Pataudi,6.3,Tonnes,Other,2000,2300,2200,Rs/Quintal,Tomato
+Pehowa,0.2,Tonnes,Other,1600,1900,1800,Rs/Quintal,Tomato
+Punhana,2.3,Tonnes,Other,3000,3500,3200,Rs/Quintal,Tomato
+Radaur,9,Tonnes,Other,1800,2000,1900,Rs/Quintal,Tomato
+Raipur Rai,0.12,Tonnes,Other,2500,3000,2500,Rs/Quintal,Tomato
+Rania,0.2,Tonnes,Other,2000,2200,2100,Rs/Quintal,Tomato
+Rewari,10.4,Tonnes,Other,1000,3000,2000,Rs/Quintal,Tomato
+Rohtak,4.8,Tonnes,Other,1500,2500,2000,Rs/Quintal,Tomato
+Sadhaura,0.7,Tonnes,Tomato,2200,2600,2400,Rs/Quintal,Tomato
+Safidon,1.43,Tonnes,Other,2000,2500,2500,Rs/Quintal,Tomato
+Shahabad,2.05,Tonnes,Tomato,1500,2200,2000,Rs/Quintal,Tomato
+Shahzadpur,0.7,Tonnes,Local,1500,2000,2000,Rs/Quintal,Tomato
+Siwan,0.4,Tonnes,Other,2500,2500,2500,Rs/Quintal,Tomato
+Sohna,3,Tonnes,Tomato,2500,3000,3000,Rs/Quintal,Tomato
+Sonepat,11.5,Tonnes,Other,2000,2600,2600,Rs/Quintal,Tomato
+Tauru,0.6,Tonnes,Tomato,3000,4000,4000,Rs/Quintal,Tomato
+Thanesar,9.2,Tonnes,Tomato,1500,2500,2000,Rs/Quintal,Tomato
+Tohana(New Veg Market),4,Tonnes,Tomato,2000,2000,2000,Rs/Quintal,Tomato
+Uklana,0.2,Tonnes,Other,1800,2000,2000,Rs/Quintal,Tomato
+,,,,,,,,
+Ganaur,0.2,Tonnes,Yam (Ratalu),4000,4500,4200,Rs/Quintal,Yam (Ratalu)
